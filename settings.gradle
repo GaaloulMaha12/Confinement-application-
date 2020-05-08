@@ -1,0 +1,2 @@
+rootProject.name='confinement'
+include ':app'
